@@ -3,6 +3,6 @@
     </head>
     <body>
         Bienvenidos al sistema.
-        Caballero Villazana.
+        Diego Caballero Villazana.
     </body>
 </html>

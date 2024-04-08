@@ -7,6 +7,7 @@
         <tr>
             <td>Usuario</td>
             <td>Contraseña</td>
+            <button>Ingresar</button>
         </tr>
     </body>
 </html>
